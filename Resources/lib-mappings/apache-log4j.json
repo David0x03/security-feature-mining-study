@@ -1,0 +1,9 @@
+{
+  "name": "Log4j",
+  "version": "2.24.1",
+  "namespace": "org.apache.logging.log4j",
+  "categories": [
+    "Logging"
+  ],
+  "children": []
+}
