@@ -14,5 +14,36 @@
       "categories": ["DataSanitization"],
       "children": []
     }
+  ],
+  "namespace": "java.util",
+  "categories": [],
+  "children": [
+    {
+      "namespace": "concurrent",
+      "categories": [],
+      "children": [
+        {
+          "namespace": "locks",
+          "categories": [],
+          "children": [
+            {
+              "namespace": "ReentrantLock",
+              "categories": ["StateSynchronization"],
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "namespace": "Base64",
+      "categories": ["Steganography"],
+      "children": []
+    },
+    {
+      "namespace": "Objects",
+      "categories": ["Hashing"],
+      "children": []
+    }
   ]
 }
